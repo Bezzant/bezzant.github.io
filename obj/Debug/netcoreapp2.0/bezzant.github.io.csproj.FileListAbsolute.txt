@@ -1,0 +1,10 @@
+/Users/Bezzant/Code/bezzant.github.io/bin/Debug/netcoreapp2.0/bezzant.github.io.deps.json
+/Users/Bezzant/Code/bezzant.github.io/bin/Debug/netcoreapp2.0/bezzant.github.io.runtimeconfig.json
+/Users/Bezzant/Code/bezzant.github.io/bin/Debug/netcoreapp2.0/bezzant.github.io.runtimeconfig.dev.json
+/Users/Bezzant/Code/bezzant.github.io/bin/Debug/netcoreapp2.0/bezzant.github.io.dll
+/Users/Bezzant/Code/bezzant.github.io/bin/Debug/netcoreapp2.0/bezzant.github.io.pdb
+/Users/Bezzant/Code/bezzant.github.io/obj/Debug/netcoreapp2.0/bezzant.github.io.csproj.CoreCompileInputs.cache
+/Users/Bezzant/Code/bezzant.github.io/obj/Debug/netcoreapp2.0/bezzant.github.io.AssemblyInfoInputs.cache
+/Users/Bezzant/Code/bezzant.github.io/obj/Debug/netcoreapp2.0/bezzant.github.io.AssemblyInfo.cs
+/Users/Bezzant/Code/bezzant.github.io/obj/Debug/netcoreapp2.0/bezzant.github.io.dll
+/Users/Bezzant/Code/bezzant.github.io/obj/Debug/netcoreapp2.0/bezzant.github.io.pdb
